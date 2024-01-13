@@ -1,10 +1,9 @@
 # amali01
 
-Hello! My name is Amgad Ali, and I'm a full-stack developer in training at Reboot01. I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems. When I'm not coding, you can find me studying at the University of Bahrain 🎓, where I'm pursuing my degree in Cybersecurity.
+Hello! My name is Amgad Ali, and I'm a full-stack developer in training at Reboot01. I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
-* 🧠  I'm learning Tech Stacks for web development, and the basics of sysAdmin and cybersecurity! 
 
 ### Skills
 
