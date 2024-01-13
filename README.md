@@ -1,6 +1,10 @@
 # amali01
 
-Hello! My name is Amgad Ali, and I'm a full-stack developer in training at Reboot01. I'm from Bahrain 🇧🇭 and passionate about learning new technologies and solving complex problems.
+👷‍♂️✈️🖥️ Engineer | Air Traffic Controller | Aspiring Full Stack Developer
+
+Hey there! I'm Amgad Ali, originally a Civil Engineer who transitioned into the fast-paced world of Air Traffic Control. Now, I'm fueled by a passion for coding and working towards becoming a Full Stack Developer.
+
+From building structures to managing airspace, and now diving into the digital realm, my journey is all about adapting and embracing new challenges. Join me in this exciting tech adventure, where every line of code tells a story. Let's connect and explore the endless possibilities together! 💻🚀
 
 * 🌍  I'm based in Bahrain
 * ✉️  You can contact me at [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
