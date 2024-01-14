@@ -21,9 +21,9 @@ From building structures to managing airspace, and now diving into the digital r
 </p>
 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amali01&theme=radical) 
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amali01&theme=radical) 
+ 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amali01&theme=radical) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amali01&theme=radical) 
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amali01&theme=radical&utcOffset=8) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amali01&theme=radical) 
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amali01&theme=radical) 
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amali01&theme=radical&utcOffset=8) 
   
