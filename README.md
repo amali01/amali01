@@ -9,6 +9,11 @@ From building structures to managing airspace, and now diving into the digital r
 * 🌍  Bahrain
 * ✉️  [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
 
+* 🔭 I’m currently working on a forum
+* 🌱 I’m currently learning: JS, Node.JS , SQLlite
+
+
+
 ### Skills
 
 <p align="left">
