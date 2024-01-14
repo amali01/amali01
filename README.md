@@ -6,8 +6,8 @@ Hey there! I'm Amgad Ali, originally a Civil Engineer who transitioned into the 
 
 From building structures to managing airspace, and now diving into the digital realm, my journey is all about adapting and embracing new challenges. Join me in this exciting tech adventure, where every line of code tells a story. Let's connect and explore the endless possibilities together! 💻🚀
 
-* 🌍  I'm based in Bahrain
-* ✉️  You can contact me at [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
+* 🌍  Bahrain
+* ✉️  [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
 
 ### Skills
 
