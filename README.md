@@ -7,10 +7,10 @@ Hey there! I'm Amgad Ali, originally a Civil Engineer who transitioned into the 
 From building structures to managing airspace, and now diving into the digital realm, my journey is all about adapting and embracing new challenges. Join me in this exciting tech adventure, where every line of code tells a story. Let's connect and explore the endless possibilities together! 💻🚀
 
 * 🌍  Bahrain
-* ✉️  [e.amgad2010@gmail.com](mailto:amgad2010@gmail.com)
+* ✉️  [e.amgad2010@gmail.com](mailto:e.amgad2010@gmail.com)
 
-* 🔭 I’m currently working on a forum
-* 🌱 I’m currently learning: JS, Node.JS , SQLlite
+* 🔭 I’m currently working on a forum in Go, atm-management-system in C
+* 🌱 I’m currently learning: JS, Node.JS , SQLlite , C
 
 
 
