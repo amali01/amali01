@@ -20,7 +20,7 @@ From building structures to managing airspace, and now diving into the digital r
 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,py,html,css,tailwind,js,ts,nodejs,react,angular,nestjs,nextjs,solidjs,vite,postgres,sqlite,docker,graphql,matlab,figma,gcp,stackoverflow,linux,ubuntu,windows,git,github,bash,yarn,npm,notion,vscode,wordpress,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,rust,py,html,css,tailwind,js,ts,nodejs,react,angular,nestjs,nextjs,solidjs,vite,postgres,sqlite,docker,graphql,matlab,figma,gcp,stackoverflow,linux,ubuntu,windows,git,github,bash,yarn,npm,notion,vscode,wordpress,postman&perline=12" />
   </a>
 </p>
 
